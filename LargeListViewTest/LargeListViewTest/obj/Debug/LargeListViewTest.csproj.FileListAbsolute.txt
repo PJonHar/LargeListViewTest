@@ -1,0 +1,14 @@
+C:\Users\paulharrold\source\repos\LargeListViewTest\LargeListViewTest\obj\Debug\LargeListViewTest.csprojAssemblyReference.cache
+C:\Users\paulharrold\source\repos\LargeListViewTest\LargeListViewTest\obj\Debug\Views\MainWindow.g.cs
+C:\Users\paulharrold\source\repos\LargeListViewTest\LargeListViewTest\obj\Debug\App.g.cs
+C:\Users\paulharrold\source\repos\LargeListViewTest\LargeListViewTest\obj\Debug\LargeListViewTest_MarkupCompile.cache
+C:\Users\paulharrold\source\repos\LargeListViewTest\LargeListViewTest\bin\Debug\LargeListViewTest.exe.config
+C:\Users\paulharrold\source\repos\LargeListViewTest\LargeListViewTest\bin\Debug\LargeListViewTest.exe
+C:\Users\paulharrold\source\repos\LargeListViewTest\LargeListViewTest\bin\Debug\LargeListViewTest.pdb
+C:\Users\paulharrold\source\repos\LargeListViewTest\LargeListViewTest\obj\Debug\Views\MainWindow.baml
+C:\Users\paulharrold\source\repos\LargeListViewTest\LargeListViewTest\obj\Debug\LargeListViewTest.g.resources
+C:\Users\paulharrold\source\repos\LargeListViewTest\LargeListViewTest\obj\Debug\LargeListViewTest.Properties.Resources.resources
+C:\Users\paulharrold\source\repos\LargeListViewTest\LargeListViewTest\obj\Debug\LargeListViewTest.csproj.GenerateResource.cache
+C:\Users\paulharrold\source\repos\LargeListViewTest\LargeListViewTest\obj\Debug\LargeListViewTest.csproj.CoreCompileInputs.cache
+C:\Users\paulharrold\source\repos\LargeListViewTest\LargeListViewTest\obj\Debug\LargeListViewTest.exe
+C:\Users\paulharrold\source\repos\LargeListViewTest\LargeListViewTest\obj\Debug\LargeListViewTest.pdb
